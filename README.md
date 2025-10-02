@@ -1,4 +1,4 @@
-# MNIST-Neural-Network-only-using-numpy-no-PyTorch-or-tensorflow-
+# MNIST-Neural-Network-using-only-numpy-
 Predicts numbers from grayscale images.
 
 [TrainingCSVFile](https://drive.google.com/file/d/1-yv8SQjYjvZ2gKakCluDdXKWDC2j7aeI/view?usp=drive_link)
